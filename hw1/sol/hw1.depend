@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666038185 source:c:\users\bsy\desktop\the last dance 50%\cs481\hws\hw1\sol\patternmatching.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<stdbool.h>
+

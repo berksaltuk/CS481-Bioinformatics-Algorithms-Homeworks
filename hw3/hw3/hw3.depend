@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1668957032 source:c:\users\bsy\desktop\1. dönem\cs481\hws\hw3\hw3\main.cpp
+	<string>
+	<iostream>
+	<sstream>
+	<fstream>
+	<climits>
+	<tuple>
+	"argh.h"
+
+1666783840 c:\users\bsy\desktop\1. dönem\cs481\hws\hw3\hw3\argh.h
+	<algorithm>
+	<sstream>
+	<limits>
+	<string>
+	<vector>
+	<set>
+	<map>
+	<cassert>
+
